@@ -1,1 +1,24 @@
-/* your styles go here */
+
+.date {
+    margin-bottom: 5px;
+    color: #939393;
+    font-size: 16px;
+}/* your styles go here */
+
+
+.lead {
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+.navbar-brand {
+
+	
+	 font-weight: 300;
+	
+	 font-size: 24px;
+	 line-height: 30px;
+}
+
