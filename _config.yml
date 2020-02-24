@@ -27,9 +27,6 @@ avatar: /assets/img/sample/avatar.jpg   # support internet resources
 github:
   username: johndong8             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
-
 social:
   name: John Dong                  # it will shows as the copyright owner in Footer
   email: jdong1992@gmail.com             # change to your email address
