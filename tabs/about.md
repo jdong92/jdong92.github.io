@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+ I am currently a Software Development Engineer in Test (SDET) at McAfee. I love working with AWS, Docker, Terraform and Test Automation. 
